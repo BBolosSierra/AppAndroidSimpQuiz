@@ -1,0 +1,17 @@
+[
+  {
+    "id": "h_001",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "What instrument does Lisa play?",
+    "options": ["Saxophone", "Guitar", "Trumpet", "Drums"],
+    "correctIndex": 0
+  },
+  {
+    "id": "h_002",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "Type Homer's catchphrase when something goes wrong.",
+    "accepted": ["Doh", "Doh"]
+  }
+]
