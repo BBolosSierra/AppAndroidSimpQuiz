@@ -1,0 +1,29 @@
+/build
+# Android/Gradle
+.gradle/
+build/
+*/build/
+
+# Local config
+local.properties
+
+# IntelliJ/Android Studio
+.idea/
+*.iml
+
+# Mac
+.DS_Store
+
+# Keystore (never commit)
+*.jks
+*.keystore
+
+# Logs
+*.log
+
+# NDK
+.externalNativeBuild/
+.cxx/
+
+# Compose previews/cache
+**/.kotlin/
