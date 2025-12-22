@@ -27,3 +27,6 @@ local.properties
 
 # Compose previews/cache
 **/.kotlin/
+
+# firebase
+app/google-services.json
