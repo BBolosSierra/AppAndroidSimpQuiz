@@ -2,16 +2,1991 @@
   {
     "id": "h_001",
     "difficulty": "HOMER",
-    "type": "mcq",
-    "prompt": "What instrument does Lisa play?",
-    "options": ["Saxophone", "Guitar", "Trumpet", "Drums"],
-    "correctIndex": 0
+    "type": "typed",
+    "prompt": "¿Cómo se llama el miembro más joven de la familia Simpson?",
+    "accepted": ["Maggie", "Maggie Simpson"]
   },
   {
     "id": "h_002",
     "difficulty": "HOMER",
     "type": "typed",
-    "prompt": "Type Homer's catchphrase when something goes wrong.",
-    "accepted": ["Doh", "Doh"]
+    "prompt": "¿Cómo se llama la madre de la familia Simpson?",
+    "accepted": ["Marge", "Marge Simpson"]
+  },
+  {
+    "id": "h_003",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Quién es el hijo mayor de los Simpson?",
+    "accepted": ["Bart", "Bart Simpson"]
+  },
+  {
+    "id": "h_004",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "¿En qué ciudad viven los Simpson?",
+    "options": ["Shelbyville", "Springfield", "Capital City", "Ogdenville"],
+    "correctIndex": 1
+  },
+  {
+    "id": "h_005",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Cuántos hijos tienen los Simpson?",
+    "accepted": ["3", "tres"]
+  },
+  {
+    "id": "h_006",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Cómo se llama el padre de la familia Simpson?",
+    "accepted": ["Homer", "Homer Simpson", "Homero", "Homero Simpson"]
+  },
+  {
+    "id": "h_007",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿A qué colegio asiste Bart?",
+    "accepted": ["Colegio de Springfield", "Springfield Elementary", "Escuela Primaria de Springfield"]
+  },
+  {
+    "id": "h_008",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "¿Cuál es la bebida favorita de Homer?",
+    "options": ["Cola", "Cerveza", "Vino", "Té"],
+    "correctIndex": 1
+  },
+  {
+    "id": "h_009",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "¿Cuál es la profesión de la señora Krabappel?",
+    "options": ["Sacerdote", "Policía", "Dueña de tienda", "Profesora"],
+    "correctIndex": 3
+  },
+  {
+    "id": "h_010",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "En la secuencia inicial, ¿quién suele escribir frases en la pizarra?",
+    "accepted": ["Bart", "Bart Simpson"]
+  },
+
+  {
+    "id": "h_011",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "¿Cómo es el pelo de Homer?",
+    "options": ["Largo y negro", "Con permanente", "Un poco de pelo", "Calvo"],
+    "correctIndex": 2
+  },
+
+  {
+    "id": "h_012",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Cómo se llama el conductor del autobús escolar?",
+    "accepted": ["Otto", "Otto Mann"]
+  },
+
+  {
+    "id": "h_013",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Cómo se llama el jefe de Homer?",
+    "accepted": ["Señor Burns", "Sr Burns", "Mr Burns", "Montgomery Burns"]
+  },
+
+  {
+    "id": "h_014",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Cuántas hermanas tiene Marge Simpson?",
+    "accepted": ["2", "dos"]
+  },
+
+  {
+    "id": "h_015",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "¿Qué sienten las hermanas de Marge por Homer?",
+    "options": ["Le adoran", "Le odian", "Les da igual", "Le admiran"],
+    "correctIndex": 1
+  },
+
+  {
+    "id": "h_016",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿De qué color es el pelo de Marge Simpson?",
+    "accepted": ["Azul", "azul"]
+  },
+
+  {
+    "id": "h_017",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "Escribe la famosa exclamación de Homer cuando algo va mal.",
+    "accepted": ["D'oh", "Doh", "D’oh"]
+  },
+
+  {
+    "id": "h_018",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Cómo se llama el supermercado donde trabaja Apu?",
+    "accepted": ["Badulaque", "Kwik-E-Mart"]
+  },
+
+  {
+    "id": "h_019",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Cómo se llama el payaso favorito de Bart?",
+    "accepted": ["Krusty", "Krusty el Payaso"]
+  },
+
+  {
+    "id": "h_020",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Cuál es el apellido del alcalde de Springfield?",
+    "accepted": ["Quimby"]
+  },
+  {
+    "id": "h_021",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Quién es el director del Colegio de Springfield?",
+    "accepted": ["Seymour Skinner", "Skinner", "Director Skinner"]
+  },
+  {
+    "id": "h_022",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Cómo se llama la hermana de Marge que fuma y tiene voz grave?",
+    "accepted": ["Patty", "Patty Bouvier"]
+  },
+  {
+    "id": "h_023",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Cómo se llama la esposa de Ned Flanders que falleció?",
+    "accepted": ["Maude", "Maude Flanders"]
+  },
+  {
+    "id": "h_024",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Quién toca el saxofón en Los Simpson?",
+    "accepted": ["Lisa", "Lisa Simpson"]
+  },
+  {
+    "id": "h_025",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿De qué color es el pelo de Bart Simpson?",
+    "accepted": ["Amarillo", "amarillo"]
+  },
+  {
+    "id": "h_026",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "Bart una vez escribió en la pizarra: “No eructaré el himno nacional”. ¿Verdadero o falso?",
+    "options": ["Verdadero", "Falso"],
+    "correctIndex": 0
+  },
+  {
+    "id": "h_027",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Cómo se llama el director del Colegio de Springfield?",
+    "accepted": ["Seymour Skinner", "Skinner", "Director Skinner"]
+  },
+  {
+    "id": "h_028",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Cómo se llama la hermana de Marge cuyo nombre empieza por P?",
+    "accepted": ["Patty"]
+  },
+  {
+    "id": "h_029",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Cómo se llama la mujer que vive al lado de los Simpson?",
+    "accepted": ["Maude Flanders", "Maude"]
+  },
+  {
+    "id": "h_030",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Qué miembro de la familia fue a la Guardería de Talentos para Niños Superdotados?",
+    "accepted": ["Bart", "Bart Simpson"]
+  },
+
+  {
+    "id": "h_031",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Qué personaje añade muchas veces la palabra “diddly” al final de las frases?",
+    "accepted": ["Ned Flanders", "Flanders"]
+  },
+  {
+    "id": "h_032",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "¿Qué instrumento toca Encías Sangrantes Murphy?",
+    "options": ["Guitarra", "Saxofón", "Trompeta"],
+    "correctIndex": 1
+  },
+  {
+    "id": "h_033",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Qué ciudad rivaliza con Springfield y empieza por S?",
+    "accepted": ["Shelbyville"]
+  },
+  {
+    "id": "h_034",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Cuántos hijos tiene la familia Flanders?",
+    "accepted": ["2", "dos"]
+  },
+  {
+    "id": "h_035",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Cómo se llama el compañero de clase de Bart que está siempre malo?",
+    "accepted": ["Wendell"]
+  },
+  {
+    "id": "h_036",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Cuál es el apellido del reverendo de Springfield?",
+    "accepted": ["Lovejoy"]
+  },
+  {
+    "id": "h_037",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Quién apuesta con Homer en la competición de minigolf de sus hijos?",
+    "accepted": ["Ned Flanders", "Flanders"]
+  },
+  {
+    "id": "h_038",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "¿Marge ha trabajado alguna vez en la policía de Springfield?",
+    "options": ["Sí", "No"],
+    "correctIndex": 0
+  },
+  {
+    "id": "h_039",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "Kent Brockman es el… ¿presentador de televisión, cartero o bombero?",
+    "accepted": ["Presentador", "Presentador de televisión", "Presentador tv", "Presentador de TV"]
+  },
+  {
+    "id": "h_040",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Cuál es el nombre del primer episodio de Halloween de Los Simpson?",
+    "accepted": ["La casa-árbol del terror", "Treehouse of Horror"]
+  },
+  {
+    "id": "h_041",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "En la competición de minigolf entre Bart y Todd, ¿quién gana: Bart, Todd o hay empate?",
+    "options": ["Bart", "Todd", "Hay empate"],
+    "correctIndex": 2
+  },
+  {
+    "id": "h_042",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "Los Simpson tienen un pulgar en cada mano, pero ¿cuántos dedos tienen en cada mano?",
+    "options": ["Tres", "Cuatro", "Cinco"],
+    "correctIndex": 0
+  },
+  {
+    "id": "h_043",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "Barney Gumble suele encontrarse en…",
+    "options": ["La Taberna de Moe", "El circuito de Springfield", "El Badulaque"],
+    "correctIndex": 0
+  },
+  {
+    "id": "h_044",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "Lewis y Richard son…",
+    "options": ["Amigos de Bart", "Compañeros de trabajo de Homer", "Bebés como Maggie"],
+    "correctIndex": 0
+  },
+  {
+    "id": "h_045",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "¿Quién NO ha sido ayudante de Krusty: Mel Patiño, el director Skinner o Bob Patiño?",
+    "options": ["Mel Patiño", "Director Skinner", "Bob Patiño"],
+    "correctIndex": 1
+  },
+  {
+    "id": "h_046",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Quién fastidia a Homer cuando trabaja de Papá Noel en un centro comercial, haciendo que pierda el trabajo?",
+    "accepted": ["Bart", "Bart Simpson"]
+  },
+  {
+    "id": "h_047",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Hacia qué objeto del salón corren los Simpson en la cabecera de la serie?",
+    "accepted": ["Sofá", "El sofá"]
+  },
+  {
+    "id": "h_048",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Quién pasa por el lector de códigos de barras en la cabecera de la serie?",
+    "accepted": ["Maggie", "Maggie Simpson"]
+  },
+  {
+    "id": "h_049",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Cómo se llama el sencillo que saca Bart Simpson como cantante?",
+    "accepted": ["Do the Bartman", "Do The Bartman"]
+  },
+  {
+    "id": "h_050",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "En el primer episodio largo de Los Simpson, ¿qué miembro de la familia se hace un tatuaje?",
+    "accepted": ["Bart", "Bart Simpson"]
+  },
+
+  {
+    "id": "h_051",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Cómo se llama la hija mayor de los Simpson?",
+    "accepted": ["Lisa", "Lisa Simpson"]
+  },
+  {
+    "id": "h_052",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "¿Qué instrumento toca Lisa en la cabecera de la serie?",
+    "options": ["Saxofón", "Guitarra", "Trompeta", "Piano"],
+    "correctIndex": 0
+  },
+  {
+    "id": "h_053",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "¿Quién es mayor: Lisa o Bart?",
+    "options": ["Lisa", "Bart"],
+    "correctIndex": 1
+  },
+  {
+    "id": "h_054",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "¿Cómo se llama el abuelo Simpson: Al, Abe o Apu?",
+    "options": ["Al", "Abe", "Apu"],
+    "correctIndex": 1
+  },
+  {
+    "id": "h_055",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "A Bart le encanta hacer bromas por teléfono. ¿Verdadero o falso?",
+    "options": ["Verdadero", "Falso"],
+    "correctIndex": 0
+  },
+  {
+    "id": "h_056",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "Homer trabaja en un restaurante de comida rápida. ¿Verdadero o falso?",
+    "options": ["Verdadero", "Falso"],
+    "correctIndex": 1
+  },
+  {
+    "id": "h_057",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "Milhouse es…",
+    "options": ["Profesor de Bart", "Amigo de Bart", "Primo de Bart"],
+    "correctIndex": 1
+  },
+  {
+    "id": "h_058",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Qué miembro de la familia Simpson vive en el Castillo de Jubilados de Springfield?",
+    "accepted": ["Abraham Simpson", "Abe Simpson", "Abuelo Simpson"]
+  },
+  {
+    "id": "h_059",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Cuál es el apellido de los vecinos de los Simpson?",
+    "accepted": ["Flanders"]
+  },
+  {
+    "id": "h_060",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "¿Qué dulce le gusta más a Homer: rosquillas, magdalenas o galletas de chocolate?",
+    "options": ["Rosquillas", "Magdalenas", "Galletas de chocolate"],
+    "correctIndex": 0
+  },
+
+  {
+    "id": "h_061",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "¿Quién es el dueño del bar en Springfield: Moe, Curly, Ned o Bob Patiño?",
+    "options": ["Moe", "Curly", "Ned", "Bob Patiño"],
+    "correctIndex": 0
+  },
+  {
+    "id": "h_062",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "Lisa es una estudiante…",
+    "options": ["Excelente", "Normalita", "Mala"],
+    "correctIndex": 0
+  },
+  {
+    "id": "h_063",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Cómo se llamaba el primer gato de los Simpson, que fue atropellado?",
+    "accepted": ["Bola de Nieve", "Bola de Nieve I", "Snowball"]
+  },
+  {
+    "id": "h_064",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Quién llenó la casa del jardinero Willie de maíz cremoso?",
+    "accepted": ["Bart", "Bart Simpson"]
+  },
+  {
+    "id": "h_065",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "¿Qué tipo de animal es Poochie, la estrella de televisión?",
+    "options": ["Un perro", "Un gato", "Un conejo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "h_066",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "¿Qué famoso cantante de soul salió en un episodio de Los Simpson: James Brown, Otis Redding o Aretha Franklin?",
+    "options": ["James Brown", "Otis Redding", "Aretha Franklin"],
+    "correctIndex": 0
+  },
+  {
+    "id": "h_067",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "Homer trabajó en las obras del señor Burns. ¿Verdadero o falso?",
+    "options": ["Verdadero", "Falso"],
+    "correctIndex": 1
+  },
+  {
+    "id": "h_068",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Quién llama a la Taberna de Moe preguntando por “B.O. Problema”?",
+    "accepted": ["Bart", "Bart Simpson"]
+  },
+  {
+    "id": "h_069",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "Marge deja que Maggie conduzca el coche en la cabecera de la serie. ¿Verdadero o falso?",
+    "options": ["Verdadero", "Falso"],
+    "correctIndex": 0
+  },
+  {
+    "id": "h_070",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "¿Qué clase de criatura es Blinky: un pez, un gato, una araña o un pájaro?",
+    "options": ["Un pez", "Un gato", "Una araña", "Un pájaro"],
+    "correctIndex": 0
+  },
+
+  {
+    "id": "h_071",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Cómo se llama el médico de la familia Simpson?",
+    "accepted": ["Doctor Hibbert", "Dr Hibbert", "Hibbert"]
+  },
+  {
+    "id": "h_072",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Qué miembro de la familia Simpson se hace vegetariano después de visitar un zoo?",
+    "accepted": ["Lisa", "Lisa Simpson"]
+  },
+  {
+    "id": "h_073",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "Rasca y Pica salieron en un programa con Poochie. ¿Verdadero o falso?",
+    "options": ["Verdadero", "Falso"],
+    "correctIndex": 0
+  },
+  {
+    "id": "h_074",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "El matón del colegio de Springfield se llama Nelson, Napoleón, Wellington o Hitler?",
+    "options": ["Nelson", "Napoleón", "Wellington", "Hitler"],
+    "correctIndex": 0
+  },
+  {
+    "id": "h_075",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "El señor Burns intentó casarse con la madre de Marge. ¿Verdadero o falso?",
+    "options": ["Verdadero", "Falso"],
+    "correctIndex": 0
+  },
+  {
+    "id": "h_076",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "Marge Simpson tiene los pies palmeados. ¿Verdadero o falso?",
+    "options": ["Verdadero", "Falso"],
+    "correctIndex": 0
+  },
+  {
+    "id": "h_077",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿De qué color es el pelo de Maggie?",
+    "accepted": ["Amarillo", "amarillo"]
+  },
+  {
+    "id": "h_078",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Quién organiza una gran campaña de seguridad después de provocar el cierre de la Central Nuclear de Springfield?",
+    "accepted": ["Homer", "Homer Simpson"]
+  },
+  {
+    "id": "h_079",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "Rod Flanders tiene un hermano. ¿Cómo se llama?",
+    "accepted": ["Todd Flanders", "Todd"]
+  },
+  {
+    "id": "h_080",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Qué personaje dice más a menudo “Okily-dokily” (u “Okely-dokely”)?",
+    "accepted": ["Ned Flanders", "Flanders"]
+  },
+
+  {
+    "id": "h_081",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "Elvis Presley fue profesor en el Campamento de Rock Fantasía. ¿Verdadero o falso?",
+    "options": ["Verdadero", "Falso"],
+    "correctIndex": 1
+  },
+  {
+    "id": "h_082",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "El abuelo Simpson es padre de Homer, de Marge o de Bart?",
+    "options": ["De Homer", "De Marge", "De Bart"],
+    "correctIndex": 0
+  },
+  {
+    "id": "h_083",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "¿En qué tipo de central trabaja Homer: hidroeléctrica, de carbón o nuclear?",
+    "options": ["Hidroeléctrica", "De carbón", "Nuclear"],
+    "correctIndex": 2
+  },
+  {
+    "id": "h_084",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Qué personaje suele llevar auriculares, escucha rock y tiene el pelo negro largo?",
+    "accepted": ["Otto", "Otto Mann"]
+  },
+  {
+    "id": "h_085",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿De qué país es originario Apu?",
+    "accepted": ["India"]
+  },
+  {
+    "id": "h_086",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿De quién es hijo el jefe de policía de Springfield?",
+    "accepted": ["Ralph Wiggum", "Ralph"]
+  },
+  {
+    "id": "h_087",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Qué amigo íntimo de Bart lleva gafas?",
+    "accepted": ["Milhouse", "Milhouse Van Houten"]
+  },
+  {
+    "id": "h_088",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿De quién es esposa Maude?",
+    "accepted": ["Ned Flanders", "Flanders"]
+  },
+  {
+    "id": "h_089",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "¿Bart y Lisa van al mismo colegio o a colegios diferentes?",
+    "options": ["Al mismo colegio", "A colegios diferentes"],
+    "correctIndex": 0
+  },
+  {
+    "id": "h_090",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Qué conductor del autobús escolar invita Bart a vivir en el garaje de los Simpson?",
+    "accepted": ["Otto", "Otto Mann"]
+  },
+
+  {
+    "id": "h_091",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "“Ay caramba” es la muletilla de qué personaje de Los Simpson?",
+    "accepted": ["Bart", "Bart Simpson"]
+  },
+  {
+    "id": "h_092",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "Bart atropella a Ned Flanders en la cabecera de la serie. ¿Verdadero o falso?",
+    "options": ["Verdadero", "Falso"],
+    "correctIndex": 1
+  },
+  {
+    "id": "h_093",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Cómo vuelve Lisa a casa en la cabecera de la serie?",
+    "accepted": ["En bicicleta", "En bici"]
+  },
+  {
+    "id": "h_094",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Qué marca de cerveza, que empieza por D, se sirve en la Taberna de Moe?",
+    "accepted": ["Duff", "Cerveza Duff"]
+  },
+  {
+    "id": "h_095",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Quién se queda atascado en el tobogán de agua del parque acuático Monte Splashmore?",
+    "accepted": ["Homer", "Homer Simpson"]
+  },
+  {
+    "id": "h_096",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Qué usa Marge para teñirse el pelo?",
+    "accepted": ["Azul 56", "Azul nº 56", "Blue 56", "Blue #56"]
+  },
+  {
+    "id": "h_097",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿Qué Beatle le envía a Marge una nota de agradecimiento por su cuadro?",
+    "accepted": ["Ringo Starr", "Ringo", "ringo Star"]
+  },
+  {
+    "id": "h_098",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿A qué bar llama Bart a menudo para gastar bromas telefónicas?",
+    "accepted": ["Taberna de Moe", "La Taberna de Moe", "Bar de Moe", "Moe's Tavern"]
+  },
+  {
+    "id": "h_099",
+    "difficulty": "HOMER",
+    "type": "mcq",
+    "prompt": "¿Con qué acento habla el jardinero Willie: escocés, irlandés o mexicano?",
+    "options": ["Escocés", "Irlandés", "Mexicano"],
+    "correctIndex": 0
+  },
+  {
+    "id": "h_100",
+    "difficulty": "HOMER",
+    "type": "typed",
+    "prompt": "¿De qué color es el pelo de Krusty el Payaso?",
+    "accepted": ["Verde", "verde"]
+  },
+  {
+    "id": "marge_1",
+    "difficulty": "MARGE",
+    "prompt": "Bart hace un trato con Dios para que el colegio cierre el día de qué examen: historia, geografía o mates?",
+    "type": "mcq",
+    "options": ["Examen de historia", "Examen de geografía", "Examen de matemáticas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "marge_2",
+    "difficulty": "MARGE",
+    "prompt": "Qué juego practica la sociedad secreta de los Canteros para celebrar que Homer se une a ellos: frisbee, Trivial Pursuit o ping-pong?",
+    "type": "mcq",
+    "options": ["Frisbee", "Trivial Pursuit", "Ping-pong"],
+    "correctIndex": 2
+  },
+  {
+    "id": "marge_3",
+    "difficulty": "MARGE",
+    "prompt": "Quién es el presidente de la clase de cuarto curso: Bart, Martin Prince, Lisa o Milhouse?",
+    "type": "mcq",
+    "options": ["Bart", "Martin Prince", "Lisa", "Milhouse"],
+    "correctIndex": 1
+  },
+  {
+    "id": "marge_4",
+    "difficulty": "MARGE",
+    "prompt": "Quién monta un negocio de vaqueros falsos en el garaje de los Simpson: Herman, Moe o Ned Flanders?",
+    "type": "mcq",
+    "options": ["Herman", "Moe", "Ned Flanders"],
+    "correctIndex": 0
+  },
+  {
+    "id": "marge_5",
+    "difficulty": "MARGE",
+    "prompt": "Capital City Goofball es la mascota de un equipo que juega a baloncesto, béisbol o hockey sobre hielo?",
+    "type": "mcq",
+    "options": ["Baloncesto", "Béisbol", "Hockey sobre hielo"],
+    "correctIndex": 1
+  },
+  {
+    "id": "marge_6",
+    "difficulty": "MARGE",
+    "prompt": "A quién entrega la gente de Springfield 15.000 dólares el día de Navidad: a los Flanders, a los Simpson o a los Van Houten?",
+    "type": "mcq",
+    "options": ["A los Flanders", "A los Simpson", "A los Van Houten"],
+    "correctIndex": 1
+  },
+  {
+    "id": "marge_7",
+    "difficulty": "MARGE",
+    "prompt": "Homer compra mil muelles para convertirlos en mercancía y venderlos en qué evento?",
+    "type": "typed",
+    "accepted": ["Las Olimpiadas", "Olimpiadas", "Los Juegos Olímpicos", "Juegos Olímpicos", "The Olympics"]
+  },
+  {
+    "id": "marge_8",
+    "difficulty": "MARGE",
+    "prompt": "Quién empieza a salir con una actriz olvidada en el episodio \"Ha nacido una estrella\": Ned, Moe o el director Skinner?",
+    "type": "mcq",
+    "options": ["Ned Flanders", "Moe", "Director Skinner"],
+    "correctIndex": 1
+  },
+  {
+    "id": "marge_9",
+    "difficulty": "MARGE",
+    "prompt": "El cohete modelo de Homer y Bart incendia qué edificio de Springfield?",
+    "type": "typed",
+    "accepted": ["La iglesia", "Iglesia", "La iglesia de Springfield", "Iglesia de Springfield", "The church"]
+  },
+  {
+    "id": "marge_10",
+    "difficulty": "MARGE",
+    "prompt": "Después de ver un espectáculo de un temerario, qué intenta saltar Bart?",
+    "type": "typed",
+    "accepted": ["El desfiladero de Springfield", "Desfiladero de Springfield", "Springfield Gorge", "El desfiladero"]
+  },
+  {
+    "id": "marge_11",
+    "difficulty": "MARGE",
+    "prompt": "Quién roba 100 kilos de azúcar de un camión accidentado e intenta venderlos?",
+    "type": "typed",
+    "accepted": ["Homer", "Homer Simpson"]
+  },
+  {
+    "id": "marge_12",
+    "difficulty": "MARGE",
+    "prompt": "Al final del episodio \"Lisa la Simpson\", Apu convierte parte de su tienda en un club de striptease. Cómo llama a su tienda?",
+    "type": "typed",
+    "accepted": ["Nude-E-Mart", "Nude E Mart", "NudeE-Mart"]
+  },
+  {
+    "id": "marge_13",
+    "difficulty": "MARGE",
+    "prompt": "Jebediah es el nombre de pila del padre de Homer, del fundador de Springfield o de la profesora de Lisa?",
+    "type": "mcq",
+    "options": ["Del padre de Homer", "Del fundador de Springfield", "De la profesora de Lisa"],
+    "correctIndex": 1
+  },
+  {
+    "id": "marge_14",
+    "difficulty": "MARGE",
+    "prompt": "Cómo se llama la zona pobre de Springfield donde Bart conoce a Chester Lampwick: Trampsville, No Hope Central o Bumtown?",
+    "type": "mcq",
+    "options": ["Trampsville", "No Hope Central", "Bumtown"],
+    "correctIndex": 2
+  },
+  {
+    "id": "marge_15",
+    "difficulty": "MARGE",
+    "prompt": "Las Inversoras de Springfield empiezan a vender qué comida para competir con los pretzels de Marge: perritos calientes, falafel o kebabs?",
+    "type": "mcq",
+    "options": ["Perritos calientes", "Falafel", "Kebabs"],
+    "correctIndex": 1
+  },
+  {
+    "id": "marge_16",
+    "difficulty": "MARGE",
+    "prompt": "Cómo se llamaba la langosta mascota de Homer: Snappy, Bitey, Blinky o Pinchy?",
+    "type": "mcq",
+    "options": ["Snappy", "Bitey", "Blinky", "Pinchy"],
+    "correctIndex": 3
+  },
+  {
+    "id": "marge_17",
+    "difficulty": "MARGE",
+    "prompt": "Quién a veces lleva una tarjeta que dice: \"Haz siempre lo contrario de lo que diga Bart\"?",
+    "type": "typed",
+    "accepted": ["Homer", "Homer Simpson"]
+  },
+  {
+    "id": "marge_18",
+    "difficulty": "MARGE",
+    "prompt": "Quién ve un cartel de cerveza gratis en un casino y acaba eructando monedas: Moe, Bart, Barney o Homer?",
+    "type": "mcq",
+    "options": ["Moe", "Bart", "Barney", "Homer"],
+    "correctIndex": 3
+  },
+  {
+    "id": "marge_19",
+    "difficulty": "MARGE",
+    "prompt": "Cuánto apuesta el Sr. Burns a un dueño rival de un equipo de béisbol a que Springfield ganará el campeonato?",
+    "type": "typed",
+    "accepted": ["1 millón de dólares", "Un millón de dólares", "$1 million", "1.000.000 de dólares"]
+  },
+  {
+    "id": "marge_20",
+    "difficulty": "MARGE",
+    "prompt": "\"Tengo unos asientos cojonudos\", le dice Homer a Ned Flanders en un hospital, en el juzgado o en una iglesia?",
+    "type": "mcq",
+    "options": ["En un hospital", "En el juzgado", "En una iglesia"],
+    "correctIndex": 2
+  },
+  {
+    "id": "marge_21",
+    "difficulty": "MARGE",
+    "prompt": "Questo es camarero en: The Magic Palace, The Happy Sandwich o The Mystery Meal Diner?",
+    "type": "mcq",
+    "options": ["The Magic Palace", "The Happy Sandwich", "The Mystery Meal Diner"],
+    "correctIndex": 0
+  },
+  {
+    "id": "marge_22",
+    "difficulty": "MARGE",
+    "prompt": "Cómo se llama la nueva compañera de clase de la que se enamora Milhouse?",
+    "type": "typed",
+    "accepted": ["Samantha Stanky", "Samantha", "Samantha Stankey"]
+  },
+  {
+    "id": "marge_23",
+    "difficulty": "MARGE",
+    "prompt": "Una figura de qué personaje de Springfield amenaza con matar a Homer en un episodio de La casa-árbol del terror: Krusty el payaso, el Sr. Burns o Lisa?",
+    "type": "mcq",
+    "options": ["Krusty el payaso", "Sr. Burns", "Lisa"],
+    "correctIndex": 0
+  },
+  {
+    "id": "marge_24",
+    "difficulty": "MARGE",
+    "prompt": "En la armería Bloodbath and Beyond, a los solicitantes peligrosos se les niegan las armas, se les denuncia a la policía o se les limita a tres pistolas o menos?",
+    "type": "mcq",
+    "options": ["Se les niegan las armas", "Se les denuncia a la policía", "Limitados a tres pistolas o menos"],
+    "correctIndex": 2
+  },
+  {
+    "id": "marge_25",
+    "difficulty": "MARGE",
+    "prompt": "Cuál fue la primera palabra que dijo Lisa de bebé: Bart, música, Homer o mamá?",
+    "type": "mcq",
+    "options": ["Bart", "Música", "Homer", "Mamá"],
+    "correctIndex": 0
+  },
+  {
+    "id": "marge_26",
+    "difficulty": "MARGE",
+    "prompt": "El director Skinner se une a la conga cuando suena \"Do the Bartman\": verdadero o falso?",
+    "type": "mcq",
+    "options": ["Verdadero", "Falso"],
+    "correctIndex": 0
+  },
+  {
+    "id": "marge_27",
+    "difficulty": "MARGE",
+    "prompt": "La camiseta \"Abajo los deberes\" provoca un motín en el colegio. De quién es la camiseta: de Bart, de la señora Krabappel, de Milhouse o de Lisa?",
+    "type": "mcq",
+    "options": ["Bart", "Señora Krabappel", "Milhouse", "Lisa"],
+    "correctIndex": 0
+  },
+  {
+    "id": "marge_28",
+    "difficulty": "MARGE",
+    "prompt": "En La casa-árbol del terror V, Homer se vuelve loco cuando le quitan la cerveza y la tele: verdadero o falso?",
+    "type": "mcq",
+    "options": ["Verdadero", "Falso"],
+    "correctIndex": 0
+  },
+  {
+    "id": "marge_29",
+    "difficulty": "MARGE",
+    "prompt": "En el episodio \"El pony de Lisa\", Apu sale con qué princesa: Kashmir, Calcuta, Nairobi o Mumbai?",
+    "type": "mcq",
+    "options": ["Princesa Kashmir", "Princesa Calcuta", "Princesa Nairobi", "Princesa Mumbai"],
+    "correctIndex": 0
+  },
+  {
+    "id": "marge_30",
+    "difficulty": "MARGE",
+    "prompt": "El compañero de celda de Homer en un manicomio, Leon Kompowsky, dice ser qué famoso cantante pop?",
+    "type": "typed",
+    "accepted": ["Michael Jackson", "Mikel Jackson", "Jackson"]
+  },
+  {
+    "id": "marge_31",
+    "difficulty": "MARGE",
+    "prompt": "Cuando Homer no consigue vender las calabazas que compró para Halloween, a quién tiene que pedir dinero prestado?",
+    "type": "typed",
+    "accepted": ["Patty y Selma", "Patty & Selma", "Patty y Selma Bouvier", "Patty y Selma Bouvier"]
+  },
+  {
+    "id": "marge_32",
+    "difficulty": "MARGE",
+    "prompt": "Cómo se llaman los aseos de caballeros en el restaurante Rusty Barnacle?",
+    "type": "typed",
+    "accepted": ["Buoys"]
+  },
+  {
+    "id": "marge_33",
+    "difficulty": "MARGE",
+    "prompt": "El FBI traslada a los Simpson fuera de Springfield a qué lago?",
+    "type": "typed",
+    "accepted": ["Lago Terror", "Terror Lake"]
+  },
+  {
+    "id": "marge_34",
+    "difficulty": "MARGE",
+    "prompt": "Cuál es la inicial del segundo nombre de Homer Simpson?",
+    "type": "typed",
+    "accepted": ["J", "Jota", "Homer J Simpson", "Homer J. Simpson"]
+  },
+  {
+    "id": "marge_35",
+    "difficulty": "MARGE",
+    "prompt": "Nana Van Houten es la abuela de quién?",
+    "type": "typed",
+    "accepted": ["Milhouse", "Milhouse Van Houten"]
+  },
+  {
+    "id": "marge_36",
+    "difficulty": "MARGE",
+    "prompt": "El personaje de King of the Hill, Hank Hill, hace un cameo en Los Simpson para ver jugar al equipo de fútbol americano de su ciudad contra el de Bart. Qué equipo gana?",
+    "type": "typed",
+    "accepted": ["Springfield Isotopes", "Isótopos de Springfield", "Los Isótopos de Springfield"]
+  },
+  {
+    "id": "marge_37",
+    "difficulty": "MARGE",
+    "prompt": "Homer hace huelga de hambre cuando qué equipo deportivo local amenaza con trasladarse a Albuquerque: Springfield Isotopes, Springfield Maulers o Springfield Warriors?",
+    "type": "mcq",
+    "options": ["Springfield Isotopes", "Springfield Maulers", "Springfield Warriors"],
+    "correctIndex": 0
+  },
+  {
+    "id": "marge_38",
+    "difficulty": "MARGE",
+    "prompt": "En un episodio de Halloween de Los Simpson, qué famosa guerrera de la tele es tomada como rehén por el dependiente de la tienda de cómics?",
+    "type": "typed",
+    "accepted": ["Xena", "Xena la princesa guerrera", "Xena, princesa guerrera", "Xena Warrior Princess"]
+  },
+  {
+    "id": "marge_39",
+    "difficulty": "MARGE",
+    "prompt": "Qué equipo de fútbol americano da Hank Scorpio a Homer a cambio de su trabajo?",
+    "type": "typed",
+    "accepted": ["Denver Broncos", "Los Denver Broncos", "Broncos"]
+  },
+  {
+    "id": "marge_40",
+    "difficulty": "MARGE",
+    "prompt": "Marge es enviada a la Autoescuela por el jefe Wiggum después de cortar qué procesión con su coche nuevo?",
+    "type": "typed",
+    "accepted": ["Un cortejo fúnebre", "Un funeral", "Una procesión fúnebre", "A funeral procession"]
+  },
+  {
+    "id": "marge_41",
+    "difficulty": "MARGE",
+    "prompt": "En el instituto de Springfield, Marge fue elegida Reina del baile, la chica más guapa o capitana de deportes?",
+    "type": "mcq",
+    "options": ["Reina del baile", "Chica más guapa", "Capitana de deportes"],
+    "correctIndex": 0
+  },
+  {
+    "id": "marge_42",
+    "difficulty": "MARGE",
+    "prompt": "Quién crea el dibujo animado \"Padre cabreado\" que se ve en Internet?",
+    "type": "typed",
+    "accepted": ["Bart", "Bart Simpson"]
+  },
+  {
+    "id": "marge_43",
+    "difficulty": "MARGE",
+    "prompt": "Marge y Homer se casaron en la capilla de bodas de Shotgun Pete: verdadero o falso?",
+    "type": "mcq",
+    "options": ["Verdadero", "Falso"],
+    "correctIndex": 0
+  },
+  {
+    "id": "marge_44",
+    "difficulty": "MARGE",
+    "prompt": "La compañera de celda de Lisa en prisión es una mujer tatuada llamada Tattoo Annie: verdadero o falso?",
+    "type": "mcq",
+    "options": ["Verdadero", "Falso"],
+    "correctIndex": 1
+  },
+  {
+    "id": "marge_45",
+    "difficulty": "MARGE",
+    "prompt": "Quién escribe una carta desde el Campamento Krusty que termina con \"¡Salvadnos ya!\"?",
+    "type": "typed",
+    "accepted": ["Lisa", "Lisa Simpson"]
+  },
+  {
+    "id": "marge_46",
+    "difficulty": "MARGE",
+    "prompt": "Qué compra Homer en Bob's RV Roundup: una caravana, una limusina, una antena de televisión por satélite o una máquina de donuts?",
+    "type": "mcq",
+    "options": ["Una caravana", "Una limusina", "Una televisión por satélite", "Una máquina de donuts"],
+    "correctIndex": 0
+  },
+  {
+    "id": "marge_47",
+    "difficulty": "MARGE",
+    "prompt": "Marge y Homer aparecen desnudos dentro de un molino, de una iglesia o de un centro comercial en un minigolf?",
+    "type": "mcq",
+    "options": ["Un molino", "Una iglesia", "Un centro comercial en un minigolf"],
+    "correctIndex": 0
+  },
+  {
+    "id": "marge_48",
+    "difficulty": "MARGE",
+    "prompt": "Qué revista lee Marge en la cola del supermercado en la cabecera de la serie?",
+    "type": "typed",
+    "accepted": ["Mom Monthly"]
+  },
+  {
+    "id": "marge_49",
+    "difficulty": "MARGE",
+    "prompt": "A quién introduce Lisa en el reciclaje, permitiéndole hacerse rico?",
+    "type": "typed",
+    "accepted": ["Señor Burns", "Sr. Burns", "Mr Burns", "Mr. Burns"]
+  },
+  {
+    "id": "marge_q2_1",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "¿La señorita Krabappel está casada, divorciada o siempre ha estado soltera?",
+    "options": ["Casada", "Divorciada", "Siempre soltera"],
+    "correctIndex": 1
+  },
+  {
+    "id": "marge_q2_2",
+    "difficulty": "MARGE",
+    "type": "typed",
+    "prompt": "¿Qué frase de tres palabras de Bart implica comerse una prenda de ropa?",
+    "accepted": [
+      "eat my shorts",
+      "Eat My Shorts"
+    ]
+  },
+  {
+    "id": "marge_q2_3",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "¿Quién perdió un brazo por sacarlo por la ventanilla del autobús escolar: Martin, Herman, Moe o Nelson?",
+    "options": ["Martin", "Herman", "Moe", "Nelson"],
+    "correctIndex": 1
+  },
+  {
+    "id": "marge_q2_4",
+    "difficulty": "MARGE",
+    "type": "typed",
+    "prompt": "¿Qué miembro de la familia Simpson es fotografiado en el bosque y confundido con Bigfoot?",
+    "accepted": ["Homer", "Homer Simpson", "Homer J. Simpson"]
+  },
+  {
+    "id": "marge_q2_5",
+    "difficulty": "MARGE",
+    "type": "typed",
+    "prompt": "¿Qué compañero de clase de Lisa está enamorado de ella?",
+    "accepted": [
+      "Ralph Wiggum",
+      "Ralph"
+    ]
+  },
+  {
+    "id": "marge_q2_6",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "Las camisetas de \"Dancin' Homer\" se ponen a la venta en los estadios de béisbol por menos de 5 dólares, menos de 25 dólares o menos de 100 dólares.",
+    "options": ["Menos de 5 $", "Menos de 25 $", "Menos de 100 $"],
+    "correctIndex": 1
+  },
+  {
+    "id": "marge_q2_7",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "¿En Acción de Gracias, en Navidad o el 4 de julio es cuando Bart se escapa y lo entrevista un equipo de televisión?",
+    "options": ["Acción de Gracias", "Navidad", "4 de julio"],
+    "correctIndex": 0
+  },
+  {
+    "id": "marge_q2_8",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "Gabbo es un payaso, un muñeco de ventrílocuo o un personaje de un dibujo de Rasca y Pica (Itchy & Scratchy).",
+    "options": [
+      "Un payaso",
+      "Un muñeco de ventrílocuo",
+      "Un personaje de Rasca y Pica"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "marge_q2_9",
+    "difficulty": "MARGE",
+    "type": "typed",
+    "prompt": "¿Quién graba a Gabbo siendo grosero con su público para ayudar a Krusty a volver a la televisión?",
+    "accepted": [
+      "Bart",
+      "Bart Simpson"
+    ]
+  },
+  {
+    "id": "marge_q2_10",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "¿Cuál es el nombre francés del monitor de bolos de Bowl-A-Rama: Jean, Claude o Jacques?",
+    "options": ["Jean", "Claude", "Jacques"],
+    "correctIndex": 2
+  },
+
+  {
+    "id": "marge_q2_26",
+    "difficulty": "MARGE",
+    "type": "typed",
+    "prompt": "Armin Tamzarian pasó muchos años haciendo creer a todo el mundo que era qué personaje del sistema educativo de Springfield.",
+    "accepted": [
+      "Seymour Skinner",
+      "Skinner",
+      "Director Skinner",
+      "Principal Skinner"
+    ]
+  },
+  {
+    "id": "marge_q2_27",
+    "difficulty": "MARGE",
+    "type": "typed",
+    "prompt": "Las siglas NRA significan National Rifle Association; ¿qué escribió Homer en su cartel de la NRA en su lugar?",
+    "accepted": [
+      "Nachos Rifles Alcohol",
+      "nachos rifles alcohol"
+    ]
+  },
+  {
+    "id": "marge_q2_28",
+    "difficulty": "MARGE",
+    "type": "typed",
+    "prompt": "¿Qué miembro del equipo de dibujos de Rasca y Pica (Itchy & Scratchy) es un gato?",
+    "accepted": [
+      "Scratchy",
+      "Pica"
+    ]
+  },
+  {
+    "id": "marge_q2_29",
+    "difficulty": "MARGE",
+    "type": "typed",
+    "prompt": "¿Qué actor de Star Trek acompaña a Homer y a otros en el primer viaje del monorraíl de Springfield?",
+    "accepted": [
+      "Leonard Nimoy",
+      "Nimoy"
+    ]
+  },
+  {
+    "id": "marge_q2_30",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "Tom se convierte en el hermano mayor de Bart. El hermano mayor de Pepi era Ned Flanders, el director Skinner o Homer.",
+    "options": ["Ned Flanders", "Director Skinner", "Homer"],
+    "correctIndex": 2
+  },
+  {
+    "id": "marge_q2_31",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "¿Cuántos dólares cobra Homer cuando se convierte en Papá Noel en un centro comercial: 13 $, 103 $, 203 $ o 1.003 $?",
+    "options": ["13 $", "103 $", "203 $", "1.003 $"],
+    "correctIndex": 0
+  },
+  {
+    "id": "marge_q2_32",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "¿Qué pidió Bart en la primera Navidad de Los Simpson en televisión: una moto, una guitarra eléctrica o un tatuaje?",
+    "options": ["Una moto", "Una guitarra eléctrica", "Un tatuaje"],
+    "correctIndex": 2
+  },
+  {
+    "id": "marge_q2_33",
+    "difficulty": "MARGE",
+    "type": "typed",
+    "prompt": "¿Quién organiza que los Ramones toquen en la fiesta de cumpleaños del señor Burns?",
+    "accepted": [
+      "Smithers",
+      "Waylon Smithers"
+    ]
+  },
+  {
+    "id": "marge_q2_34",
+    "difficulty": "MARGE",
+    "type": "typed",
+    "prompt": "¿Qué nombre dieron los Simpson a su segundo gato, comprado para sustituir a Snowball?",
+    "accepted": [
+      "Snowball II",
+      "Snowball 2",
+      "Bola de Nieve II",
+      "Bola de Nieve 2"
+    ]
+  },
+  {
+    "id": "marge_q2_35",
+    "difficulty": "MARGE",
+    "type": "typed",
+    "prompt": "¿Quién desea que fracase la nueva tienda de Ned Flanders y luego se siente culpable cuando ocurre?",
+    "accepted": [
+      "Homer",
+      "Homer Simpson"
+    ]
+  },
+  {
+    "id": "marge_q2_36",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "Cuando Bart es encarcelado por el presunto asesinato del director Skinner, ¿quién es su compañero de celda: el Actor Secundario Bob, Maude Flanders, Martin Prince u Otto?",
+    "options": [
+      "Actor Secundario Bob",
+      "Maude Flanders",
+      "Martin Prince",
+      "Otto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "marge_q2_37",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "Homer le pide matrimonio a la Princesa Kashmir: ¿verdadero o falso?",
+    "options": ["Verdadero", "Falso"],
+    "correctIndex": 1
+  },
+  {
+    "id": "marge_q2_38",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "¿De qué país procede Adil Hoxha, el estudiante de intercambio: Ucrania, Albania, Turquía o Letonia?",
+    "options": ["Ucrania", "Albania", "Turquía", "Letonia"],
+    "correctIndex": 1
+  },
+  {
+    "id": "marge_q2_39",
+    "difficulty": "MARGE",
+    "type": "typed",
+    "prompt": "Bart tatúa las palabras \"Wide Load\" en el trasero de quién.",
+    "accepted": [
+      "Homer",
+      "Homer Simpson",
+      "de Homer",
+      "Homer’s"
+    ]
+  },
+  {
+    "id": "marge_q2_40",
+    "difficulty": "MARGE",
+    "type": "typed",
+    "prompt": "¿De qué color es el chupete que Maggie suele usar?",
+    "accepted": [
+      "Rojo",
+      "red"
+    ]
+  },
+  {
+    "id": "marge_q2_41",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "El director Skinner dirige la Escuela Elemental de Springfield pero todavía vive con su madre: ¿verdadero o falso?",
+    "options": ["Verdadero", "Falso"],
+    "correctIndex": 0
+  },
+  {
+    "id": "marge_q2_42",
+    "difficulty": "MARGE",
+    "type": "typed",
+    "prompt": "¿Qué objeto, que lleva seis generaciones en la familia Simpson, destroza ayudante de Santa (Santa’s Little Helper)?",
+    "accepted": [
+      "La colcha familiar",
+      "el edredón familiar",
+      "the family quilt"
+    ]
+  },
+  {
+    "id": "marge_q2_43",
+    "difficulty": "MARGE",
+    "type": "typed",
+    "prompt": "La canción benéfica \"We’re Sending Our Love Down the Well\" se graba para ayudar a qué miembro de la familia Simpson en un apuro.",
+    "accepted": [
+      "Bart",
+      "Bart Simpson"
+    ]
+  },
+  {
+    "id": "marge_q2_44",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "En uno de los cumpleaños de Bart recibe un vale para una clase de tango. ¿Llega a dar la clase?",
+    "options": ["Sí", "No"],
+    "correctIndex": 0
+  },
+  {
+    "id": "marge_q2_45",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "¿Qué famoso científico aparece en el episodio \"They Saved Lisa’s Brain\": Albert Einstein, Stephen Hawking o Isaac Newton?",
+    "options": ["Albert Einstein", "Stephen Hawking", "Isaac Newton"],
+    "correctIndex": 1
+  },
+  {
+    "id": "marge_q2_46",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "¿A quién expulsan del grupo musical de Homer, los Be Sharps, por hacer que el grupo se parezca demasiado a los Village People: Barney, el jefe Wiggum, la señora Krabappel o el Dependiente de la Tienda de Cómics?",
+    "options": [
+      "Barney",
+      "Jefe Wiggum",
+      "Señorita Krabappel",
+      "Dependiente de la tienda de cómics"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "marge_q2_47",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "¿Quién se convierte en un activo defensor de los dibujos no violentos: Lisa, Bart, el Abuelo Simpson o Marge?",
+    "options": ["Lisa", "Bart", "Abuelo Simpson", "Marge"],
+    "correctIndex": 3
+  },
+  {
+    "id": "marge_q3_48",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "¿Quién contrata a Lionel Hutz como abogado después de que un coche atropelle a Bart: Milhouse, Ned Flanders, Bart o Marge?",
+    "options": ["Milhouse", "Ned Flanders", "Bart", "Marge"],
+    "correctIndex": 2
+  },
+  {
+    "id": "marge_q3_49",
+    "difficulty": "MARGE",
+    "type": "typed",
+    "prompt": "Apu es el dueño de qué tienda de Springfield.",
+    "accepted": [
+      "Kwik-E-Mart",
+      "Kwik E Mart",
+      "Kwik e Mart"
+    ]
+  },
+  {
+    "id": "marge_q3_50",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "¿Qué es el General Sherman: el tanque de Krusty el Payaso, un bagre gigante, el tío de Homer o un cliente habitual de la Taberna de Moe?",
+    "options": [
+      "El tanque de Krusty",
+      "Un bagre gigante",
+      "El tío de Homer",
+      "Un habitual de la Taberna de Moe"
+    ],
+    "correctIndex": 1
+  },
+
+  {
+    "id": "m_151",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "¿Cuál es el apodo que recibe la criminal Ms Botz: la Ladrona de Cerveza, el Forajido de las Donas o la Niñera Bandida?",
+    "options": ["Ladrona de Cerveza", "Forajido de las Donas", "Niñera Bandida"],
+    "correctIndex": 2
+  },
+  {
+    "id": "m_152",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "¿Qué número tiene Homer cuando entra por primera vez en los Canteros?",
+    "options": ["2", "98", "102", "908"],
+    "correctIndex": 3
+  },
+  {
+    "id": "m_153",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "En '¿Quién disparó al Sr. Burns? Parte I', qué habitante de Springfield encuentra petróleo cavando una tumba para una mascota muerta?",
+    "options": ["Groundskeeper Willie", "Herman", "Snake", "Otto"],
+    "correctIndex": 0
+  },
+  {
+    "id": "m_154",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "Maggie llama a la policía cuando su familia se pelea mientras juegan a qué juego de mesa?",
+    "options": ["Cluedo", "Monopoly", "Scrabble", "Parchís"],
+    "correctIndex": 1
+  },
+  {
+    "id": "m_155",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "¿Dónde consigue finalmente el Sr. Burns un trabajo para el Monstruo del Lago Ness?",
+    "options": ["En un casino de Las Vegas", "En un club nocturno de París", "Como Presidente de EE.UU."],
+    "correctIndex": 0
+  },
+  {
+    "id": "m_156",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "¿Quién entra en casa de los Simpson con una escopeta pero se asusta al oír cantar a la familia?",
+    "options": ["Snake", "Jimbo Jones", "Sideshow Bob"],
+    "correctIndex": 0
+  },
+  {
+    "id": "m_157",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "El coche de los Simpson es dañado por un dinosaurio mecánico en…",
+    "options": ["El Autódromo de Springfield", "El Estadio de Shelbyville", "El Bowl-A-Rama de Barney"],
+    "correctIndex": 0
+  },
+  {
+    "id": "m_158",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "La maqueta de Allison Taylor es saboteada por Bart, que añade…",
+    "options": ["Un corazón de vaca", "Un ojo de oveja", "Un tomate podrido"],
+    "correctIndex": 0
+  },
+  {
+    "id": "m_159",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "¿Cuál de las hermanas de Marge no tiene olfato?",
+    "options": ["Patty", "Selma", "Jacqueline"],
+    "correctIndex": 1
+  },
+  {
+    "id": "m_160",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "Bart reordena las letras de 'Cod Platter' para formar qué palabras?",
+    "options": ["Cold pet rat", "Pet cold rat", "Cold trap pet"],
+    "correctIndex": 0
+  },
+  {
+    "id": "m_161",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "¿Quién aparece en el concurso televisivo 'Springfield Squares'?",
+    "options": ["Homer", "Sideshow Mel", "Ron Howard", "Todas las anteriores"],
+    "correctIndex": 3
+  },
+  {
+    "id": "m_162",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "Shary Bobbins llega a casa de los Simpson flotando con un paraguas: ¿verdadero o falso?",
+    "options": ["Verdadero", "Falso"],
+    "correctIndex": 0
+  },
+  {
+    "id": "m_163",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "¿Quién se opone al juego en Springfield pero acaba enganchada a las máquinas tragaperras?",
+    "options": ["Marge", "Mrs. Krabappel", "Lisa"],
+    "correctIndex": 0
+  },
+  {
+    "id": "m_164",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "¿Qué objeto usa Homer para sujetar el pañal de Maggie mientras Marge está fuera?",
+    "options": ["Una grapadora", "Un clavo", "Una horquilla"],
+    "correctIndex": 0
+  },
+  {
+    "id": "m_165",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "Sideshow Bob planea qué tipo de explosión para matar a su nueva esposa?",
+    "options": ["Una explosión de gas", "Una bomba", "Una explosión química"],
+    "correctIndex": 0
+  },
+  {
+    "id": "m_166",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "¿Qué comida de Homer obstruye los mandos del transbordador espacial casi causando un desastre?",
+    "options": ["Patatas fritas", "Donuts", "Rosquillas de azúcar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "m_167",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "Cirque du Puree es…",
+    "options": ["Un circo francés", "Un restaurante francés", "Una marca francesa de comida para bebés"],
+    "correctIndex": 0
+  },
+  {
+    "id": "m_168",
+    "difficulty": "MARGE",
+    "type": "mcq",
+    "prompt": "¿Qué personaje NO fue voluntario para salvar la casa de los Simpson?",
+    "options": ["Reverendo Lovejoy", "Dr. Hibbert", "Apu", "Krusty"],
+    "correctIndex": 3
+  },
+  {
+    "id": "l_101",
+    "difficulty": "LISA",
+    "type": "mcq",
+    "prompt": "Yiddles es una tienda que vende trucos de magia, bromas prácticas, suministros médicos o las tres cosas?",
+    "options": ["Trucos de magia", "Bromas prácticas", "Suministros médicos", "Las tres cosas"],
+    "correctIndex": 3
+  },
+  {
+    "id": "l_102",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿Cuál era el nombre anterior del perro llamado ‘Ayudante de Santa’?",
+    "accepted": ["Rex"]
+  },
+  {
+    "id": "l_103",
+    "difficulty": "LISA",
+    "type": "mcq",
+    "prompt": "¿Contra cuál de estos perros Ayudante de Santa NO corre?: Fido, Dog O’ War, Rex o Chew My Shoe?",
+    "options": ["Fido", "Dog O’ War", "Rex", "Chew My Shoe"],
+    "correctIndex": 2
+  },
+  {
+    "id": "l_104",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿Quién es el dueño del Colegio Canino al que envían al perro de los Simpson?",
+    "accepted": ["Emily Winthrop"]
+  },
+  {
+    "id": "l_105",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "Los niños de Springfield crean el programa de radio pirata “Lo sabemos todo sobre vosotros” tras ver qué película de terror.",
+    "accepted": ["The Bloodening", "Bloodening"]
+  },
+  {
+    "id": "l_106",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿Qué pide Homer en el restaurante de Itchy & Scratchy Land?",
+    "accepted": ["Eyeball stew", "Sopa de ojos", "Estofado de ojos"]
+  },
+  {
+    "id": "l_107",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿Cuál es el apellido del matrimonio mayor que son vecinos de los Simpson?",
+    "accepted": ["The Winfields", "Winfield", "Winfields"]
+  },
+  {
+    "id": "l_108",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿Qué personaje de Springfield conduce un Hyundai y tiene un hijo al que guarda en un cajón?",
+    "accepted": ["Kearney"]
+  },
+  {
+    "id": "l_109",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿Cuál es el nombre de pila de la esposa del Jefe Wiggum?",
+    "accepted": ["Sarah"]
+  },
+  {
+    "id": "l_110",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿Cómo se llama la compañera de trabajo de la que Homer se siente atraído y con la que asiste a una convención en Capital City?",
+    "accepted": ["Mindy Simmons", "Mindy"]
+  },
+  {
+    "id": "l_111",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿Qué habitante del asilo de Abraham Simpson resulta ser un ladrón de gatos de éxito?",
+    "accepted": ["Mr Molloy", "Molloy"]
+  },
+  {
+    "id": "l_112",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "Sophie resulta ser la hija perdida de qué personaje de Springfield?",
+    "accepted": ["Krusty the Clown", "Krusty", "Krusty el payaso"]
+  },
+  {
+    "id": "l_113",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "Homer promete 10.000 dólares para salvar su programa de comedia británico favorito. ¿Cómo se llama?",
+    "accepted": ["Do Shut Up", "Do shut up"]
+  },
+  {
+    "id": "l_114",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿Cuál es el nombre del balneario donde Homer casi muere en una sala de vapor?",
+    "accepted": ["The Stagnant Springs Spa", "Stagnant Springs Spa"]
+  },
+  {
+    "id": "l_115",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "Bart apuesta a Homer 50 dólares a que no puede comer una caja entera de qué ingrediente?",
+    "accepted": ["Baking soda", "Bicarbonato", "Bicarbonato sódico"]
+  },
+  {
+    "id": "l_116",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿Qué médico cura a Ned Flanders cuando ingresa en un manicomio?",
+    "accepted": ["Dr Foster", "Doctor Foster"]
+  },
+  {
+    "id": "l_117",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿Qué terrible final sufre Shary Bobbins cuando flota con su paraguas?",
+    "accepted": ["She is sucked into a plane’s jet engine", "Jet engine", "Es absorbida por el motor de un avión"]
+  },
+  {
+    "id": "l_118",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿Cómo se llama la mujer que Homer conoce y que hace las voces de Itchy y Scratchy?",
+    "accepted": ["June Bellamy"]
+  },
+  {
+    "id": "l_119",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿Qué nombre recibe el bar de Moe cuando lo convierte en restaurante?",
+    "accepted": ["Uncle Moe’s Family Feedbag", "Family Feedbag"]
+  },
+  {
+    "id": "l_120",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿Cómo se llama el centro comercial construido en Sabertooth Meadow?",
+    "accepted": [
+      "Heavenly Hills Mall",
+      "Heavenly Hills"
+    ]
+  },
+  {
+    "id": "l_201",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿De qué banda de chicos real recibe consejos la banda de chicos de Bart?",
+    "accepted": ["*NSYNC", "*Nsync", "NSYNC", "N Sync"]
+  },
+  {
+    "id": "l_202",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "En un safari africano que ganan los Simpson, un hipopótamo los persigue pero los salva otra criatura. ¿Qué tipo de criatura es?",
+    "accepted": ["chimpancés", "chimpancees", "chimpancés.", "chimpanzees", "chimpancé", "chimpance"]
+  },
+  {
+    "id": "l_203",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "A Bart le dan un fármaco experimental para mejorar su trastorno por déficit de atención. ¿Cómo se llama el fármaco?",
+    "accepted": ["Focusyne", "Focusyn", "Fócusin", "Focusin"]
+  },
+  {
+    "id": "l_204",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿Qué compañía telefónica llega a un acuerdo con Homer para instalar una enorme antena de telefonía en el tejado de la casa de los Simpson?",
+    "accepted": ["OmniTouch", "Omnitouch"]
+  },
+  {
+    "id": "l_205",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿Cómo se llama la jueza que condena a Bart y Homer a estar atados juntos después de que Bart robe el coche patrulla del Jefe Wiggum?",
+    "accepted": ["Constance Harm", "Jueza Constance Harm", "Constance HARM"]
+  },
+  {
+    "id": "l_206",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿Cómo se llama el multimillonario que construye una enorme antena de telefonía en el tejado de la casa de los Simpson?",
+    "accepted": ["Arthur Fortune", "Arturo Fortune"]
+  },
+  {
+    "id": "l_207",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "Mientras pilota una lancha en Florida, Homer atropella a un famoso caimán. ¿Cómo se llama?",
+    "accepted": ["Capitán Jack", "Captain Jack", "Capitan Jack"]
+  },
+  {
+    "id": "l_208",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿Quién es el profesor de escuela dominical de Bart y Lisa?",
+    "accepted": ["Señorita Allbright", "Miss Allbright", "Allbright"]
+  },
+  {
+    "id": "l_209",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿De qué planeta proceden los alienígenas Kodos y Kang?",
+    "accepted": ["Rigel", "Rigel 7", "Rigel-7", "Rígel"]
+  },
+  {
+    "id": "l_210",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "Moe aparece en un calendario de Duff Beer, pero ¿qué le ocurre a su cara en el calendario?",
+    "accepted": ["Está cubierta con una pegatina grande", "Está cubierta con una gran pegatina", "Está cubierta con una etiqueta grande"]
+  },
+  {
+    "id": "l_211",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿Qué personaje interpretaba Bart cuando actuaba en anuncios siendo bebé?",
+    "accepted": ["Baby Stinkbreath", "Bebé Aliento-Apestoso", "Bebé Aliento Apestoso"]
+  },
+  {
+    "id": "l_212",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿Por qué se quita Homer su anillo de boda, lo que hace que dos mujeres piensen que está soltero?",
+    "accepted": ["Se manchó de pintura", "Tiene pintura encima", "Le cayó pintura", "Se llena de pintura"]
+  },
+  {
+    "id": "l_213",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "Cuando Homer decide convertirse en hippie, ¿puedes nombrar a uno de los dos amigos hippies de su madre con los que se hace amigo?",
+    "accepted": ["Seth", "Munchie", "Seth o Munchie", "Seth and Munchie"]
+  },
+  {
+    "id": "l_214",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿Cuánto costó la llamada telefónica a cobro revertido que Bart hizo a Australia y que causó un incidente diplomático?",
+    "accepted": ["900 dólares", "$900", "900$"]
+  },
+  {
+    "id": "l_215",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿Quién es el subsecretario de Estado de Protocolo Internacional: División de Bribones y Gamberros?",
+    "accepted": ["Evan Conover", "Conover"]
+  },
+  {
+    "id": "l_216",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿Quién debe darle una patada en el trasero a Bart como parte de su disculpa al pueblo australiano?",
+    "accepted": ["El Primer Ministro australiano", "El Primer Ministro de Australia", "The Australian Prime Minister"]
+  },
+  {
+    "id": "l_217",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿Qué palabra intenta Bart tatuarse en el primer episodio de larga duración de Los Simpson?",
+    "accepted": ["Madre", "Mother"]
+  },
+  {
+    "id": "l_218",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿Cuál es el eslogan de la tienda Costington’s?",
+    "accepted": ["Más de un siglo sin un eslogan", "Over a century without a slogan", "Más de un siglo sin eslogan"]
+  },
+  {
+    "id": "l_219",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "Ned y Homer son golpeados en Las Vegas por mucha gente, incluidos los Moody Blues. ¿Verdadero o falso?",
+    "accepted": ["Verdadero", "True"]
+  },
+  {
+    "id": "l_220",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿Qué vagabundo afirma haber inventado al personaje Itchy en los dibujos de Itchy & Scratchy?",
+    "accepted": ["Chester J. Lampwick", "Chester Lampwick", "Lampwick"]
+  },
+  {
+    "id": "l_221",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿Cómo se llaman los dos niños que se parecen mucho a Lisa y Bart y que prueban que el Servicio Postal robó un dibujo del dueño de los estudios Itchy & Scratchy?",
+    "accepted": ["Eliza y Lester", "Lester y Eliza", "Eliza & Lester"]
+  },
+  {
+    "id": "l_222",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "En Treehouse of Horror VII, ¿cómo se llama el hermano gemelo malvado de Bart?",
+    "accepted": ["Hugo"]
+  },
+  {
+    "id": "l_223",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿Dónde encuentran Lisa y Bart plutonio mientras buscan pilas para el mando de la televisión?",
+    "accepted": ["En la caja de herramientas de Homer", "En la caja de herramientas de Homero", "In Homer’s toolbox"]
+  },
+  {
+    "id": "l_224",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "Cuando Homer se queja a Marge de que nadie lo respeta, ¿qué escribe Bart en la parte posterior de su cabeza?",
+    "accepted": ["Inserte cerebro aquí", "Insert brain here"]
+  },
+  {
+    "id": "l_225",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "Cuando los Simpson se convierten en granjeros, ¿qué dos cultivos cruza Homer?",
+    "accepted": ["Tomates y tabaco", "Tomaco", "Tomates y tabaco (Tomaco)"]
+  },
+  {
+    "id": "l_226",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿Cómo se llama el director de Springfield Theatrical Productions?",
+    "accepted": ["Llewellyn"]
+  },
+  {
+    "id": "l_227",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "El antiguo novio de Gloria, Snake, la secuestra a ella y a Homer. ¿Quién era su nuevo novio en ese momento?",
+    "accepted": ["Mr Burns", "Señor Burns", "Sr. Burns", "Burns"]
+  },
+  {
+    "id": "l_228",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "El Centro de Terapia Familiar del Dr. Marvin Monroe ofrece felicidad familiar o ¿qué otra cosa a cambio?",
+    "accepted": ["Le devolvemos el doble del dinero", "Doble devolución del dinero", "Double your money back"]
+  },
+  {
+    "id": "l_229",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "En The Simpsons 138th Episode Spectacular, ¿quién aparece como un hombre calvo y tuerto?",
+    "accepted": ["Matt Groening", "El creador de la serie", "Groening"]
+  },
+  {
+    "id": "l_230",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿En qué videojuego es sorprendido Bart robando en una tienda por el guardia de seguridad Don Brodka?",
+    "accepted": ["Bonestorm"]
+  },
+  {
+    "id": "l_231",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿Qué premio en efectivo rechaza Bart para escoger como premio alternativo un elefante de verdad?",
+    "accepted": ["10 000 dólares", "$10,000", "10000 dólares", "10.000 dólares"]
+  },
+  {
+    "id": "l_232",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "¿Qué artículo doméstico habían estado ahorrando los Simpson para comprar, pero terminan gastando el dinero dos veces en un saxofón para Lisa?",
+    "accepted": ["Aire acondicionado", "El aire acondicionado", "Air conditioner"]
+  },
+  {
+    "id": "l_233",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "Homer presenta a Bart como voluntario para un equipo juvenil de fútbol americano. ¿Cómo se llama el equipo?",
+    "accepted": ["Springfield Wildcats", "Wildcats de Springfield"]
+  },
+  {
+    "id": "l_234",
+    "difficulty": "LISA",
+    "type": "typed",
+    "prompt": "Cuando Todd y Rod Flanders se colocan juntos con su uniforme de los Springfield Wildcats, ¿qué número forman?",
+    "accepted": ["666"]
   }
 ]
+
+
